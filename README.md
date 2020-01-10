@@ -90,7 +90,7 @@ my_fav_number = 7
 
 if type(dog) == type(my_fav_number):
   print("they are the same data type")
-elif:
+else:
   print("they are different data types!")
 ```
 
