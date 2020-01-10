@@ -21,7 +21,7 @@ my_fav_number = 7
 Example Variables in Javascript:
 ```
 var dog = "woof";
-var myFavNumber = 7
+var myFavNumber = 7;
 ```
 
 - Notice the quotations for a variable that contains a line of text (variable type is called a string). Notice that for a variable type of number, there are no quations. Why do you think that is?
