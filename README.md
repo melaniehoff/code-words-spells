@@ -29,7 +29,9 @@ var myFavNumber = 7
 
 **Variable types**
 
-Variables in any language have different data types. Two common types are called strings and numbers. A string is a line of text like "cat", with quotation marks around it. A variable data type of number is represented by numerical character(s) that you can perform math on. Notice that x = 2 is a data type of number but x = "2" is actually a data type of string. The former could be added and subtracted, the latter is simply the character "2"
+- Variables in any language have different data types. Two common types are called strings and numbers. 
+- A string is a line of text like "cat", with quotation marks around it. A variable data type of number is represented by numerical character(s) that you can perform math on. 
+- Notice that x = 2 is a data type of number but x = "2" is actually a data type of string. The former could be added and subtracted, the latter is simply the character "2"
 
 Python:
 ```
