@@ -1,8 +1,8 @@
 # Code Words Spells: Variables & Functions in Python & Javascript
 
+![](https://github.com/melaniehoff/code-words-spells/blob/master/1.png)
 
-
-## Javascript vs. Python**
+## Javascript vs. Python
 To read a great article on the difference between Javascript and Python, [check here](https://skillcrush.com/2019/03/15/python-vs-javascript/)! 
 - My top-level distinction is Javascript is for making dynamic websites. Javascript lives and breathes in _the Browser_. - Python, is way more of an all-purpose programming language for millions of computational uses including on the web (in servers but not in the browser).
 
@@ -102,3 +102,11 @@ if (typeof dog == typeof myFavNumber) {
   console.log("they are DIFFERENT data types!");
 };
 ```
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">words have power to make things so.<br>code has power to make things so.<br>spells have power to make things so.<br><br>when we write code for ourselves and our friends, code that this is written with care, with intention and with intimacy, this literally the stuff of magic</p>&mdash; ⟴ ↭ ⥉ ⬼ ↯ ↬ (@melanieh0ff) <a href="https://twitter.com/melanieh0ff/status/1215728556346691584?ref_src=twsrc%5Etfw">January 10, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+![](https://github.com/melaniehoff/code-words-spells/blob/master/2.png)
+
+
+![](https://github.com/melaniehoff/code-words-spells/blob/master/4.jpg)
