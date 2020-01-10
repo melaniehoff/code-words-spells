@@ -103,10 +103,9 @@ if (typeof dog == typeof myFavNumber) {
 };
 ```
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">words have power to make things so.<br>code has power to make things so.<br>spells have power to make things so.<br><br>when we write code for ourselves and our friends, code that this is written with care, with intention and with intimacy, this literally the stuff of magic</p>&mdash; ⟴ ↭ ⥉ ⬼ ↯ ↬ (@melanieh0ff) <a href="https://twitter.com/melanieh0ff/status/1215728556346691584?ref_src=twsrc%5Etfw">January 10, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">words have power to make things so.<br>code has power to make things so.<br>spells have power to make things so.<br><br>when we write code for ourselves and our friends, code that this is written with care, with intention and with intimacy, this literally the stuff of magic</p>&mdash; ⟴ ↭ ⥉ ⬼ ↯ ↬ (@melanieh0ff) <a href="https://twitter.com/melanieh0ff/status/1215728556346691584?ref_src=twsrc%5Etfw">January 10, 2020</a></blockquote> 
 
 
 ![](https://github.com/melaniehoff/code-words-spells/blob/master/2.png)
 
 
-![](https://github.com/melaniehoff/code-words-spells/blob/master/4.jpg)
