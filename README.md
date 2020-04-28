@@ -8,6 +8,9 @@ To read a great article on the difference between Javascript and Python, [check 
 
 ## Variables
 
+>“For magic consists in this, the true naming of a thing.”
+>― Ursula K. LeGuin, A Wizard of Earthsea
+
 - variables are named containers that hold information. When we name something we can refer to it later. Naming is powerful. 
 - words in laguage are like variables. They are named containers that hold meaning. To name something is declare the existance of the thing we are naming. names for words and variables don't emerge from the ether, they are collectively constructed and reaffirmed by people. what are the social histories of the words you speak?
 
