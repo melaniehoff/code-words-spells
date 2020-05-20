@@ -30,6 +30,8 @@ var myFavNumber = 7;
 - Notice the quotations for a variable that contains a line of text (variable type is called a string). Notice that for a variable type of number, there are no quations. Why do you think that is?
 - Notice that in python vs. there are different naming conventions. snake_case vs. camelCase. Why do you think this is? (hint there's not a clear hard and fast answer, it's really just differnet naming conventions for different languages!)
 
+>"When I use a word," Humpty Dumpty said, in rather a scornful tone, "it means just what I choose it to mean—neither more nor >less." "The question is," said Alice, "whether you can make words mean so many different things." "The question is," said >Humpty Dumpty, "which is to be [master](https://blog.carbonfive.com/problematic-terminology-in-open-source/)—that's all."
+
 **Variable types**
 
 - Variables in any language have different data types. Two common types are called strings and numbers. 
@@ -114,5 +116,7 @@ if (typeof dog == typeof myFavNumber) {
 
 
 ![](https://github.com/melaniehoff/code-words-spells/blob/master/2.png)
+
+
 
 
